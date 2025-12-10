@@ -1,0 +1,5 @@
+{
+  "name": "PromptFlip - AI Prompt Translator",
+  "description": "A bidirectional Chinese-English translator optimized for AI prompts. Automatically detects language and segments outputs for easy copying.",
+  "requestFramePermissions": []
+}
